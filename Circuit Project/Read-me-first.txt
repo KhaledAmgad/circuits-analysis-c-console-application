@@ -1,0 +1,20 @@
+w   (omiga)
+Vs N1 N2 Magnitude phase  (voltage)
+R1 N1 N2 Magnitude        (resistance)
+C1 N1 N2 Magnitude of C   (capacitor)
+L1 N1 N2 Magintude of H   (inductor)
+Cs N1 N2 Magnitude phase  (current source) 
+F
+
+
+Ex
+
+Vs 1 0 50 20
+R1 1 2 3
+L1 2 3 3
+C1 3 0 .5
+Cs 2 0 3
+F
+
+==>please dont forget (F (capital) in the end of the inputs)
+==>R,Vs,L1,C1,Cs (all start in capital not small)
