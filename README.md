@@ -6,6 +6,11 @@
 
 
 
+
+==>please don't forget to include eigen c++ library  http://eigen.tuxfamily.org/index.php?title=Main_Page
+
+
+
 ==>R,Vs,L1,C1,Cs (all start in capital not small)
 
 
